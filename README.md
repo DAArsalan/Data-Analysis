@@ -34,10 +34,4 @@ This analysis can be used by **E-commerce businesses, sales analysts, and decisi
 - Enhance **shipping and logistics efficiency**
 - Focus on **high-value customers and regions** for targeted sales growth
 
----
-### 🚀 Next Steps
-For future improvements, **Power BI or Python** could be used for deeper insights and automation. This project serves as a strong foundation for more advanced **data-driven decision-making in E-commerce**.
 
-📂 **Dataset & Analysis:** Available in the Excel file for reference.
-
-# Data-Analysis
