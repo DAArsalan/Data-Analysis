@@ -22,6 +22,7 @@ Based on the analysis, some major findings include:
 - **High-Value Orders:** A small percentage of orders contribute to a large share of revenue.
 
 ##  Tools & Techniques Used
+- **Exploratory Data Analysis**
 - **Excel Formulas:** Used SUM, COUNTIFS, AVERAGE, and other functions for data calculations.
 - **Pivot Tables:** Created interactive tables to analyze sales, customer trends, and profitability.
 - **Pivot Charts & Slicers:** Used visual tools for better data interpretation.
